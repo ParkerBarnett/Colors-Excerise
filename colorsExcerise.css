@@ -1,0 +1,27 @@
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: #ff0000;
+}
+
+h3 {
+    color: #00ff;
+}
+
+h4 {
+    color: #dfdf5500;
+}
+
+h5 {
+    color: #0f0;
+}
+
+h6 {
+    color: rgb(230, 78, 100);
+}
+
+p {
+    color: rgba(0, 60, 130, 0.5);
+}
